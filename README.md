@@ -1,4 +1,4 @@
-## <div align="center">Hi there👋! I'm a React front-end developer🚀</div>  
+## <div align="center">Hi there!👋 I'm a React front-end developer🚀</div>  
   
 
 - 🧙‍♂️My name is Altaev Nurzhan  
