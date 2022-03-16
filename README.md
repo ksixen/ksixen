@@ -1,4 +1,4 @@
-## <div align="center">Hi there!👋 I'm a React front-end developer🚀</div>  
+### <div align="center">Hi there!👋 I'm a React front-end developer🚀</div>  
   
 
 - 🧙‍♂️My name is Altaev Nurzhan  
@@ -16,30 +16,88 @@
 <br/>  
 
 
+## My Works 
+  
+  
+  <table>
+  
+  <tr>
+    <td valign="top" width="50%">
+      <p>Space Tourism</p>
+      <img src="https://user-images.githubusercontent.com/38946653/156761366-86648e02-05d6-4f9a-8ea0-e9f23d30f0be.png" width="250px" height="auto" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://space-tourism-ksixen.vercel.app/">Live Demo</a>
+            |
+      <a href="https://github.com/ksixen/music-app/">Github</a>
+    </td>
+  </tr>
+  </tr> 
+  
+  
+  <tr>
+    <td valign="top" width="50%">
+      <p>Weather App</p>
+      <img src="https://user-images.githubusercontent.com/38946653/156737728-0c276999-1eb1-4eca-ab4f-ce007c152e01.png" width="250px" height="auto" />
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://weather-woad-seven.vercel.app/">Live Demo</a>
+            |https://weather-woad-seven.vercel.app/
+      <a href="https://github.com/ksixen/weather/">Github</a>
+    </td>
+
+  </tr>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="50%">
+      <p>Music App</p>
+      <img src="https://user-images.githubusercontent.com/38946653/158544379-53ad3c20-3262-4bf3-a7dd-ae6b2884a496.png" width="250px" height="auto" />
+  </td>
+  <td valign="center" width="50%">
+      <a href="https://music-app-ksixen.vercel.app/">Live Demo</a> 
+      |
+      <a href="https://github.com/ksixen/music-app/">Github</a>
+  </td>
+
+  </tr>
+  </tr>
+</table>  
+<br/>  
+
+
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### I can work with  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
-### Interested In  
+</td><td valign="top" width="33%">
+
+
+
+### I'm learning  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
@@ -49,6 +107,19 @@
 
 <br/>  
 
+
+## Connect with me  
+<div align="center">
+<a href="https://dev.to/ksixen" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ksixen" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/ksixen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
 
 <br/>  
@@ -58,6 +129,18 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ksixen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
 
 
 
