@@ -19,52 +19,98 @@
 ## My Works 
   
   
-  <table>
-  
-  <tr>
-    <td valign="top" width="50%">
-      <p>Space Tourism</p>
-      <img src="https://user-images.githubusercontent.com/38946653/156761366-86648e02-05d6-4f9a-8ea0-e9f23d30f0be.png" width="250px" height="auto" />
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://space-tourism-ksixen.vercel.app/">Live Demo</a>
-            |
-      <a href="https://github.com/ksixen/music-app/">Github</a>
-    </td>
-  </tr>
-  </tr> 
-  
-  
-  <tr>
-    <td valign="top" width="50%">
-      <p>Weather App</p>
-      <img src="https://user-images.githubusercontent.com/38946653/156737728-0c276999-1eb1-4eca-ab4f-ce007c152e01.png" width="250px" height="auto" />
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://weather-woad-seven.vercel.app/">Live Demo</a>
-            |https://weather-woad-seven.vercel.app/
-      <a href="https://github.com/ksixen/weather/">Github</a>
-    </td>
 
-  </tr>
-  </tr>
-  
+<table>
   <tr>
-    <td valign="top" width="50%">
-      <p>Music App</p>
-      <img src="https://user-images.githubusercontent.com/38946653/158544379-53ad3c20-3262-4bf3-a7dd-ae6b2884a496.png" width="250px" height="auto" />
-  </td>
-  <td valign="center" width="50%">
-      <a href="https://music-app-ksixen.vercel.app/">Live Demo</a> 
+    <td width="33%" align="center">
+      <p>Space Tourism</p>
+    </td>
+    <td valign="center" width="33%">
+      <img
+        src="https://user-images.githubusercontent.com/38946653/156761366-86648e02-05d6-4f9a-8ea0-e9f23d30f0be.png"
+        width="250px"
+        height="auto"
+      />
+    </td>
+    <td valign="center" width="33%" align="center">
+      <a href="https://space-tourism-ksixen.vercel.app/">Live Demo</a>
       |
       <a href="https://github.com/ksixen/music-app/">Github</a>
-  </td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <p>Music App</p>
+    </td>
+    <td valign="center" width="33%">
+      <img
+        src="https://user-images.githubusercontent.com/38946653/158544379-53ad3c20-3262-4bf3-a7dd-ae6b2884a496.png"
+        width="250px"
+        height="auto"
+      />
+    </td>
+    <td valign="center" width="33%" align="center">
+      <a href="https://music-app-ksixen.vercel.app/">Live Demo</a>
+      |
+      <a href="https://github.com/ksixen/music-app/">Github</a>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="33%">
+      <p>Weather App</p>
+    </td>
+    <td valign="center" width="33%">
+      <img
+        src="https://user-images.githubusercontent.com/38946653/156737728-0c276999-1eb1-4eca-ab4f-ce007c152e01.png"
+        width="250px"
+        height="auto"
+      />
+    </td>
+    <td valign="center" width="33%" align="center">
+      <a href="https://weather-woad-seven.vercel.app/">Live Demo</a>
+      |
+      <a href="https://github.com/ksixen/weather/">Github</a>
+    </td>
   </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <p>First Landing Page</p>
+    </td>
+    <td valign="center" width="33%">
+      <img
+        src="https://user-images.githubusercontent.com/38946653/158557236-66dfb93c-d50d-43fc-8f97-41cfdc96287d.png"
+        width="250px"
+        height="auto"
+      />
+    </td>
+    <td valign="center" width="33%" align="center">
+      <a href="https://site-with-react-app-2fx9kto0g-ksixen.vercel.app/">Live Demo</a>
+      |
+      <a href="https://github.com/ksixen/first-react-app">Github</a>
+    </td>
   </tr>
-</table>  
+
+  <tr>
+    <td align="center" width="33%">
+      <p>Todo App</p>
+    </td>
+    <td valign="center" width="33%">
+      <img
+        src="https://user-images.githubusercontent.com/38946653/158557628-5e337ed8-0c92-4e70-81b9-251c2706ea13.png"
+        width="250px"
+        height="auto"
+      />
+    </td>
+    <td valign="center" width="33%" align="center">
+      <a href="https://todo-app-with-cookies-b5wasawvn-ksixen.vercel.app/">Live Demo</a>
+      |
+      <a href="https://github.com/ksixen/todo-app-with-cookies">Github</a>
+    </td>
+  </tr>
+</table>
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
