@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <p>Space Tourism</p>
+      <p>Shopping App Redux</p>
     </td>
     <td valign="center" width="33%">
       <img
