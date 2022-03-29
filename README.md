@@ -27,6 +27,23 @@
     </td>
     <td valign="center" width="33%">
       <img
+        src="https://user-images.githubusercontent.com/38946653/160588444-322caa32-6255-4354-9f13-79e1cdcb0c9f.png"
+        width="250px"
+        height="auto"
+      />
+    </td>
+    <td valign="center" width="33%" align="center">
+      <a href="https://shop-mfd033j3i-ksixen.vercel.app/">Live Demo</a>
+      |
+      <a href="https://github.com/ksixen/shop">Github</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <p>Space Tourism</p>
+    </td>
+    <td valign="center" width="33%">
+      <img
         src="https://user-images.githubusercontent.com/38946653/156761366-86648e02-05d6-4f9a-8ea0-e9f23d30f0be.png"
         width="250px"
         height="auto"
